@@ -2,7 +2,7 @@ package uk.me.westmacott;
 
 import java.awt.*;
 
-interface World {
+public interface World {
 
     public String getName();
 

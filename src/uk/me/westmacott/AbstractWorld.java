@@ -2,7 +2,7 @@ package uk.me.westmacott;
 
 import java.awt.*;
 
-abstract class AbstractWorld implements World {
+public abstract class AbstractWorld implements World {
 
     private final Dimension size;
     private String name;
